@@ -512,9 +512,7 @@ index=* sourcetype=WinEventLog:Security EventCode=4672
 - ✅ Blue team / defensive security operations
 - ✅ Technical documentation and reporting
 
----
 
-## 📁 Repository Structure
 
 ---
 
@@ -530,4 +528,4 @@ Built with Splunk Enterprise · Oracle VirtualBox · Windows Server 2022
 
 ---
 
-## 🏗️ Architecture
+
